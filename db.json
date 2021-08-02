@@ -1,0 +1,14 @@
+{
+  "userId": 2,
+  "roleId": 1,
+  "name": "Bruce Wayne",
+  "address": "Publicis Sapient, Bangalore, India",
+  "contact": "9999999999",
+  "email": "email@publicisgroupe.com",
+  "password": "1234xxxx",
+  "age": 23,
+  "lastActiveAt": "29-07-2021",
+  "createdAt": "12-12-2020",
+  "isActive": false
+
+}
