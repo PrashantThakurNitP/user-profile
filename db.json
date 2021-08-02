@@ -1,3 +1,4 @@
+{"user-profile":
 {
   "userId": 2,
   "roleId": 1,
@@ -11,4 +12,5 @@
   "createdAt": "12-12-2020",
   "isActive": false
 
+}
 }
